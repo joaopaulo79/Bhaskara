@@ -81,7 +81,7 @@ namespace Bhaskara
                 if (!realA && !realB && !realC)
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine($"\nDigite os número corretamente!!\n");
+                    Console.WriteLine($"\nDigite os números corretamente!!\n");
                     Console.ResetColor();
                 }
             }
